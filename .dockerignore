@@ -1,0 +1,8 @@
+venv
+.dockerignore
+.gitignore
+buildAndCompose.sh
+buildAndContainers.sh
+docker-compose.yml
+Dockerfile
+app.py
